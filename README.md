@@ -1,5 +1,7 @@
 # Combat Log
 
+Prevent players disconnect in combat
+
 Version: `1.21.X`
 
 ## Commands
