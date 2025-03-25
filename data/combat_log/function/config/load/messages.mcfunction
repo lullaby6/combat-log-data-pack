@@ -5,7 +5,7 @@ data modify storage combat_log:config message_combat_leave_text set value "You a
 data modify storage combat_log:config message_combat_leave_color set value "green"
 
 data modify storage combat_log:config message_combat_death_text set value "You died because you disconnected in combat!"
-data modify storage combat_log:config message_combat_death_color set value "green"
+data modify storage combat_log:config message_combat_death_color set value "red"
 
 data modify storage combat_log:config message_combat_time_text set value "Combat: "
 data modify storage combat_log:config message_combat_time_color set value "gray"
