@@ -1,4 +1,5 @@
 kill @s
 
 function combat_log:utils/clear_chat
-tellraw @s [{color:"gray",text:"You died because you disconnected in combat!"}]
+
+function combat_log:message/combat/death with storage combat_log:config

@@ -32,7 +32,7 @@ Config:
 Change combat time (20 ticks = 1 second):
 
 ```mcfunction
-/scoreboard players set time combat_log.settings <ticks>
+/scoreboard players set time combat_log.config <ticks>
 ```
 
 Disable:
