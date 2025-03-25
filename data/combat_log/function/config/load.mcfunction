@@ -1,0 +1,1 @@
+function combat_log:config/load/config
