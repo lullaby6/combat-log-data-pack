@@ -42,6 +42,7 @@ Change sounds:
 ```
 
 Sounds names:
+
 - sound_combat_join
 - sound_combat_join_pitch
 - sound_combat_leave
@@ -53,7 +54,8 @@ Change messages:
 /data modify storage combat_log:config <sound_name> set value "<value>"
 ```
 
-Sounds names:
+Message names:
+
 - message_combat_join_text
 - message_combat_join_color
 
