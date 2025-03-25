@@ -35,6 +35,38 @@ Change combat time (20 ticks = 1 second):
 /scoreboard players set time combat_log.config <ticks>
 ```
 
+Change sounds:
+
+```mcfunction
+/data modify storage combat_log:config <sound_name> set value "<value>"
+```
+
+Sounds names:
+- sound_combat_join
+- sound_combat_join_pitch
+- sound_combat_leave
+- sound_combat_leave_pitch
+
+Change messages:
+
+```mcfunction
+/data modify storage combat_log:config <sound_name> set value "<value>"
+```
+
+Sounds names:
+- message_combat_join_text
+- message_combat_join_color
+
+- message_combat_leave_text
+- message_combat_leave_color
+
+- message_combat_death_text
+- message_combat_death_color
+
+- message_combat_time_text
+- message_combat_time_color
+- message_combat_time_time_color
+
 Disable:
 
 ```mcfunction
