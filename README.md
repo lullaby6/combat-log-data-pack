@@ -11,16 +11,6 @@
 
 Prevent players disconnect in combat!
 
-Version: `1.21.5`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
 ## ⌨️ Commands
 
 Config:
@@ -68,18 +58,6 @@ Message names:
 - message_combat_time_text
 - message_combat_time_color
 - message_combat_time_time_color
-
-Disable:
-
-```mcfunction
-/datapack disable "file/combat-log.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/combat-log.zip"
-```
 
 ## 🪪 License
 
